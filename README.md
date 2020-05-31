@@ -1,7 +1,9 @@
 # Ball-Lotery-WebGL
 
 #### --Note--
-You need to run the app on localhost (http server per example).
+
+**You need to run the app on localhost**(http server per example).
+
 Otherwise, if you only open the "index.html" file some assets won't load because of security issues related to web browsers,
 and the game won't run as supposed too (as shown in the gameshot.png file).
 
